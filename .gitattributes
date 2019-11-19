@@ -1,0 +1,7 @@
+weights2.csv filter=lfs diff=lfs merge=lfs -text
+bias1.csv filter=lfs diff=lfs merge=lfs -text
+bias2.csv filter=lfs diff=lfs merge=lfs -text
+mnist_test.csv filter=lfs diff=lfs merge=lfs -text
+mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+weights1.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
